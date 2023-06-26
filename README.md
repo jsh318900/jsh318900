@@ -3,7 +3,7 @@
   <h1 style='letter-spacing=0.1rem'>정서현: AI 개발 지망생</h1>
 </section>
 <section align='center'>
-    <a href='https://www.notion.so/0c77176ead77432385387845a713b908?pvs=4'>
+    <a href='https://abstracted-homburg-098.notion.site/5e2225a881a348ce9bc5573baf8369db?pvs=4'>
     &#128279; 포트폴리오 링크  &#128279;
     </a>
 </section>
