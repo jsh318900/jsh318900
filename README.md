@@ -13,7 +13,7 @@
   <img src='https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white'/>
   <img src='https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white'/>
   <img src='https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white'/>
-  <img src='https://img.shields.io/badge/PyTorch-3776AB?style=flat-square&logo=PyTorch&logoColor=white'/><br/>
+  <img src='https://img.shields.io/badge/PyTorch-3776AB?style=flat-square&logo=PyTorch&logoColor=white'/>
   <img src='https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white'/><br/>
   <img src='https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=Java&logoColor=white'/>
   <img src='https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white'/>
