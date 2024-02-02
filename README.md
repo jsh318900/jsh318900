@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" >
 <section align='center'>
   <h1 style='letter-spacing=0.1rem'>정서현</h1> 
-  현직 스타트업 인공지능 모델 개발자 <a href=''>이력서 링크</a><br/><br/>
+  현직 스타트업 인공지능 모델 개발자 <a href='https://drive.google.com/file/d/1Tqtyg-xVfSgqByKLe2Srx83gH_XfGx0L/view?usp=sharing'>이력서 링크</a><br/><br/>
   관심분야: 데이터 모델링, 인공지능, 예측 모델링, 이상치 탐색, 컴퓨터 비전, R&D
 </section>
 <section align='center'>
@@ -45,5 +45,5 @@
   <li><a href='https://github.com/cwruRobotics/NASA-RMC-2017'>2017 NASA Robotic Mining Competition Codebase</a></li>
 <section>
   <h2>웹 관련</h2>
-  <li>스토리기반 웹 게임 Dream Compass <a href='https://dreamcompass.netlify.app/'>게임 링크 (모바일 최적화)</a> <a href='https://github.com/jsh318900/dream_compass'>Github</a></li>
+  <li>스토리기반 웹 게임 루시드 드리머 <a href='https://dreamcompass.netlify.app/'>게임 링크 (모바일 최적화)</a> <a href='https://github.com/jsh318900/dream_compass'>Github</a></li>
 </section>
