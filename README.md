@@ -1,49 +1,25 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" >
-<section align='center'>
-  <h1 style='letter-spacing=0.1rem'>정서현</h1> 
-  현직 스타트업 인공지능 모델 개발자
-  관심분야: 데이터 모델링, 인공지능, 예측 모델링, 이상치 탐색, 컴퓨터 비전, R&D
-</section>
-<section align='center'>
-  <h2> 주요 기술 스택 </h2>
-  <img src='https://img.shields.io/badge/PyTorch-3776AB?style=flat-square&logo=PyTorch&logoColor=white'/>
-  <img src='https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white'/>
-  <img src='https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white'/>
-  <img src='https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=Java&logoColor=white'/>
-  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Vuejs-4FC08D?style=flat-square&logo=Vue.js&logoColor=white'/>
-</section>
-<section>
-  <h2>시계열 데이터</h2>
-  <ul>
-    <li>2023 연구개발특구 AI Spark Challenge <a href='https://aifactory.space/task/2317/overview'>대회 링크</a> <a href='https://gist.github.com/jsh318900/9438c231bd8915e294a72165094807ee'>주피터 코드 링크</a></li>
-  </ul>
-</section>
-<section>
-  <h2>컴퓨터 비전</h2>
-  <ul>
-    <li>합성데이터 기반 객체 탐지 AI 경진대회 <a href='https://dacon.io/competitions/official/236107/overview/description'>대회 링크</a> <a href='https://nbviewer.org/gist/jsh318900/aa9114956913582dfa306279ddac04c1'>kaggle 노트북 코드 링크</a> (데이터셋 접근 권한 필요)</li>
-  </ul>
-</section>
-<section>
-  <h2>머신러닝을 사용한 데이터 분석</h2>
-  <ul>
-    <li>사이킷런을 사용한 구내식당 메뉴에 따른 이용자 수 예측 <a href='https://dacon.io/competitions/official/235743/overview/description'>대회 링크</a> <a href='https://nbviewer.org/github/jsh318900/mini_project_2_team_4/blob/main/seohyun_prediction.ipynb'>주피터 코드</a> <a href='https://github.com/jsh318900/mini_project_2_team_4'>Github</a></li>
-  </ul>
-</section>
-<section>
-  <h2>대학 로봇 동아리 활동</h2>
-</section>
-  <li><a href='https://github.com/cwruRobotics/NASA-RMC-2020'>2020 NASA Robotic Mining Competition Codebase</a></li>
-  <li><a href='https://github.com/cwruRobotics/NASA-RMC-2019'>2019 NASA Robotic Mining Competition Codebase</a></li>
-  <li><a href='https://github.com/cwruRobotics/NASA-RMC-2018'>2018 NASA Robotic Mining Competition Codebase</a></li>
-  <li><a href='https://github.com/cwruRobotics/NASA-RMC-2017'>2017 NASA Robotic Mining Competition Codebase</a></li>
-<section>
-  <h2>웹 관련</h2>
-  <li>스토리기반 웹 게임 루시드 드리머 <a href='https://dreamcompass.netlify.app/'>게임 링크 (모바일 최적화)</a> <a href='https://github.com/jsh318900/dream_compass'>Github</a></li>
-</section>
+
+# 경험해본 기술 스택
+- 프로그래밍 언어: Python, Java, JavaScript, C, C++, Node.js
+- ML/DL: PyTorch, Scikit-learn, Keras
+- 데이터베이스/전처리/시각화: MySQL, Numpy, Pandas, Matplotlib, Seaborn
+- 개발 환경: Git, Linux, Anaconda, Jupyter, ROS
+- 백엔드/배포: FastAPI, Docker, Spring, traefik
+
+
+# 프로젝트 목록
+최신 순으로 정렬. 팀으로 작업한 프로젝트는 별도 README에 프로젝트 개요, 기여도 및 맡은 부분 확인 가능 (표 내 링크 확인)
+
+| 구분 | 제목 | 사용 기술 | Repo/Gist | README | 진행도 | 개인/팀 |
+|:---:|-----|---------|:---------:|:------:|:-----:|:----:|
+| 백엔드 | FastAPI + SQLAlchemy 2.0 튜토리얼 |FastAPI, SQLAlchemy, MariaDB, Docker| [Code](https://github.com/jsh318900/fastapi_sqlalchemy_2_tutorial) | [README](https://github.com/jsh318900/fastapi_sqlalchemy_2_tutorial/blob/main/README.md) |<img src="assets/loading.png" width="30">| 개인 |
+| 비전 | 합성데이터를 이용한 객체 탐지 | PyTorch, MMDetection, FasterRCNN | [Notebook]() | [README]() | <img src="assets/checked.png" width="30"> | 팀 |
+| 시계열 | CNN-LSTM을 이용한 미세먼지 농도 예측 | PyTorch, Scikit-learn | [Notebook]() | [README]() | <img src="assets/checked.png" width="30"> | 팀 |
+| ML | 구내식당 데이터 분석과 Random Forest를 활용한 식수계 예측 | Scikit-learn, Pandas | [Notebook]() | [README]() | <img src="assets/checked.png" width="30"> | 팀 |
+| 데이터분석 | 멜론 차트 웹스크래퍼와 2000-2010년대 차트 분석 | Selenium, BeautifulSoup, SQL | [Code](https://github.com/jsh318900/mini_project_1_team_3) | [README]() | <img src="assets/checked.png" width="30"> | 팀 |
+| 로봇 | 2020 CWRUbotix NASA RMC 참가 코드 | ROS, Python, C++ | [Code](https://github.com/cwruRobotics/NASA-RMC-2020) | [README]() | <img src="assets/checked.png" width="30"> | 팀 |
+| 로봇 | 2019 CWRUbotix NASA RMC 참가 코드 | ROS, Python, C++ | [Code](https://github.com/cwruRobotics/NASA-RMC-2019) | [README]() | <img src="assets/checked.png" width="30"> | 팀 |
+| 로봇 | 2018 CWRUbotix NASA RMC 참가 코드 | Java, C++, RabbitMQ | [Code](https://github.com/cwruRobotics/NASA-RMC-2018) | [README]() | <img src="assets/checked.png" width="30"> | 팀 |
+| 로봇 | 2017 CWRUbotix NASA RMC 참가 코드 | Java, C++, RabbitMQ | [Code](https://github.com/cwruRobotics/NASA-RMC-2017) | [README]() | <img src="assets/checked.png" width="30"> | 팀 |
+
+
