@@ -11,6 +11,12 @@
 ## 사용 모델 구조:
 여러 지역에 걸쳐져있는 기상 정보 및 미세먼지 데이터를 종합적으로 활용하기 위해서, [A Deep CNN-LSTM Model for Particulate Matter (PM2.5) Forecasting in Smart Cities [Huang & Kuo 2018]](https://www.mdpi.com/1424-8220/18/7/2220) 논문을 참고한 CNN-LSTM 모델을 Pytorch로 직접 구현. 
 
+### Feature2DEncoder 모델 구조:
+![AI Spark 모델 Feature Encoder](https://github.com/jsh318900/jsh318900/assets/22267053/55a85395-704b-432a-a584-d35d30562e69)
+### 모델 전체 구조:
+![AI Spark 전체 모델](https://github.com/jsh318900/jsh318900/assets/22267053/1cb7ce63-a71f-4a01-90c7-358836f78abd)
+
+
 # 사용 기술
 - PyTorch, Pandas
 
