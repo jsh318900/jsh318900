@@ -10,7 +10,9 @@
 
 ## 사용 모델 구조:
 FasterRCNN의 ROI Head 부분에 [Dual Attention Newtork [Fu et al. CVPR 2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf)를 추가한 모델로 훈련을 진행함.<br>
-오픈 소스 라이브러리인 MMDetection에서 제공하는 FasterRCNN 모델에 논문 내용을 바탕으로 직접 구현한 Dual Attention Network를 integration하여 훈련 진행.
+오픈 소스 라이브러리인 MMDetection에서 제공하는 FasterRCNN 모델에 논문 내용을 바탕으로 직접 구현한 Dual Attention Network를 integration하여 훈련 진행.<br>
+### Dual Attention Networks 모델 구조
+![Dual Attention(1)](https://github.com/jsh318900/jsh318900/assets/22267053/65dd0e48-e2b4-4fb8-8e7b-497695113d38)
 
 # 사용 기술
 - Python, PyTorch, MMDetection
