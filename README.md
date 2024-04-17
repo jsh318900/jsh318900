@@ -1,3 +1,5 @@
+# 석사 연구
+지금은 AI 개발자로 근무하고 있지만, 석사 과정 중에는 전산학 이론 연구를 하였습니다. [석사 논문 링크: 알고리즘의 평균 시간 복잡도](https://etd.ohiolink.edu/acprod/odb_etd/r/etd/search/10?p10_accession_num=case160752432028902&clear=10&session=114456332644546)
 
 # 경험해본 기술 스택
 - 프로그래밍 언어: Python, Java, JavaScript, C, C++, Node.js
